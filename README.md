@@ -10,4 +10,5 @@ A collection of useful cryptography tools, written in rust
 - En-/Decryption using different algorithms
 - Hashing using different algorithms
 - OTP Generator/Tester
+- E2EE
 - ...
